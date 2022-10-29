@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**PGP ID:** `FD1E 539C 815F 0DCA`
